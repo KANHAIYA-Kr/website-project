@@ -95,7 +95,7 @@ h1{
 
 }
 img:hover{
-    box-shadow: 10px 10px 87px blue;
+    box-shadow: 10px 10px 87px #5f021f;
 }
 img{
     box-shadow: 10px 10px 87px black;
